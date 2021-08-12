@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MyFirstDeployment/static/css/main.c336a66b.chunk.css",
+    "main.js": "/MyFirstDeployment/static/js/main.91dcb88d.chunk.js",
+    "main.js.map": "/MyFirstDeployment/static/js/main.91dcb88d.chunk.js.map",
+    "runtime-main.js": "/MyFirstDeployment/static/js/runtime-main.d5cb9b74.js",
+    "runtime-main.js.map": "/MyFirstDeployment/static/js/runtime-main.d5cb9b74.js.map",
+    "static/js/2.973f89d0.chunk.js": "/MyFirstDeployment/static/js/2.973f89d0.chunk.js",
+    "static/js/2.973f89d0.chunk.js.map": "/MyFirstDeployment/static/js/2.973f89d0.chunk.js.map",
+    "static/js/3.b18499d5.chunk.js": "/MyFirstDeployment/static/js/3.b18499d5.chunk.js",
+    "static/js/3.b18499d5.chunk.js.map": "/MyFirstDeployment/static/js/3.b18499d5.chunk.js.map",
+    "index.html": "/MyFirstDeployment/index.html",
+    "static/css/main.c336a66b.chunk.css.map": "/MyFirstDeployment/static/css/main.c336a66b.chunk.css.map",
+    "static/js/2.973f89d0.chunk.js.LICENSE.txt": "/MyFirstDeployment/static/js/2.973f89d0.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/MyFirstDeployment/static/media/pexel.7e80ca97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5cb9b74.js",
+    "static/js/2.973f89d0.chunk.js",
+    "static/css/main.c336a66b.chunk.css",
+    "static/js/main.91dcb88d.chunk.js"
+  ]
+}
